@@ -1,5 +1,4 @@
 ---
-title: Categories
-date: 2017-08-14 22:59:22
-type: categories
+title: "Categories"
+layout: "categories"
 ---
