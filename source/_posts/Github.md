@@ -1,7 +1,9 @@
 ---
 title: Intro to Git/Github
 date: 2017-08-16 14:58:06
-tags:
+tags: [github, intro]
+thumbnail: ../../../../img/github.png
+categories: Code
 ---
 ## Git 101
 
