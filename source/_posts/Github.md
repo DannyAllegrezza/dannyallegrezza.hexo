@@ -2,12 +2,13 @@
 title: Intro to Git/Github
 date: 2017-08-16 14:58:06
 tags: [github, intro]
-thumbnail: ../../../../img/github.png
+thumbnail: /thumbs/github.png
 categories: Code
 ---
 ## Git 101
 
 Today we will be discussing the fundamentals of `git`, a tool which allows groups of people to work on the same documents (often code) at the same time, and without stepping on each other's toes. It is a *distributed version control system*. Originally created by Linus Torvalds, `git` differs from other source control systems, such as `SVN` due to it's distributed nature. I'll cover some basics to help you get started. 
+
 
 ## Setting up Git
 <!-- more -->
