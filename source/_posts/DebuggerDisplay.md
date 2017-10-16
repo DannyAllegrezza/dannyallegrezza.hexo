@@ -11,7 +11,7 @@ That is where the `DebuggerDisplay()` attribute steps in!
 
 <!-- more -->
 
-To quote the excellent [MSDN docs]:(https://docs.microsoft.com/en-us/dotnet/framework/debug-trace-profile/enhancing-debugging-with-the-debugger-display-attributes)
+To quote the excellent [MSDN docs](https://docs.microsoft.com/en-us/dotnet/framework/debug-trace-profile/enhancing-debugging-with-the-debugger-display-attributes):
 
 > Debugger display attributes allow the developer of the type, who specifies and best understands the runtime behavior of that type, to also specify what that type will look like when it is displayed in a debugger. 
 
