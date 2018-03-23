@@ -13,4 +13,5 @@ I've worked with additional languages including Java, PHP and some Go. Ultimatel
 
 
 ## Current Project Cars
-* 1991 Nissan 240SX - Now featuring 3.0L of Toyota Power! 
+* 1991 Nissan 240SX - Now featuring 3.0L of Toyota Power!
+* 2005 Cadillac CTS-V - Daily Driver
