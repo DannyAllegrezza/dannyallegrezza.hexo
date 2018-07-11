@@ -1,6 +1,6 @@
 ---
 title: Configuring .NET Core 2.1 projects on AppVeyor
-thumbnail: /thumbs/code.png
+thumbnail: /2018/07/06/AppVeyor/AppVeyorHomepage.JPG
 tags:
   - tips
   - GT86Registry
