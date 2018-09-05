@@ -1,6 +1,8 @@
 # dannyallegrezza.com
 My personal website!
 
+![DannyAllegrezza.com](/img/site.png)
+
 ## Technology
 
 The current iteration of dannyallegrezza.com uses [Hexo](https://hexo.io/), a static site generator.
