@@ -3,7 +3,7 @@ title: DotNet Tips - The DebuggerDisplay() attribute
 date: 2017-10-09 11:01:40
 tags: [C#, tips]
 categories: Code
-thumbnail: /2017/10/09/DebuggerDisplay/debugger.JPG
+thumbnail: /thumbs/debugger.JPG
 ---
 Debugging is one of the most crucial skills that a software developer can possess. I want to share a tip I recently learned while watching a great [Pluralsight course](https://app.pluralsight.com/library/courses/csharp-tips-traps/table-of-contents). When debugging your C# code, wouldn't it be nice to know some interesting data about the giant collection of objects you are hovering over? 
 
