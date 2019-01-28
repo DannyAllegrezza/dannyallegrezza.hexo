@@ -1,7 +1,7 @@
 ---
 title: Showing Gratitude
 date: 2018-04-22 13:46:14
-thumbnail: /thumbs/code.png
+thumbnail: /images/thumbnails/code.png
 tags: [tips]
 categories: Code
 ---

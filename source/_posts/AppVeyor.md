@@ -1,6 +1,6 @@
 ---
 title: Configuring .NET Core 2.1 projects on AppVeyor
-thumbnail: /2018/07/06/AppVeyor/AppVeyorHomepage.JPG
+thumbnail: /images/thumbnails/appveyor_logo.svg
 tags:
   - tips
   - GT86Registry
@@ -12,8 +12,9 @@ In my spare time I've been working on an open-source platform for automotive ent
 
 Enter [AppVeyor](https://appveyor.com)!
 
-{% asset_img AppVeyorHomepage.JPG AppVeyor goodness %}
 <!-- more -->
+
+{% asset_img AppVeyorHomepage.JPG AppVeyor goodness %}
 
 I wanted to share a template you can use to build .NET Core 2.1 projects. You can locate this on the GT86Registry [repository](https://github.com/DannyAllegrezza/GT86Registry/blob/master/appveyor.yml). 
 

@@ -1,7 +1,7 @@
 ---
 title: {{ title }}
 date: {{ date }}
-thumbnail: /thumbs/code.png
+thumbnail: /images/thumbnails/code.png
 tags: [tips]
 categories: Code
 ---
