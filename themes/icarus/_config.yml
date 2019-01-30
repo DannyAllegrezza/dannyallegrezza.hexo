@@ -26,8 +26,8 @@ navbar:
         Home: /
         About: /about
         Archives: /archives
-        # Categories: /categories
-        # Tags: /tags
+        Categories: /categories
+        Tags: /tags
     # Navigation bar links to be shown on the right
     links:
         # Download on GitHub:
