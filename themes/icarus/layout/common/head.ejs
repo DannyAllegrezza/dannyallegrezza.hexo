@@ -3,6 +3,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 <%- meta(page) %>
 
+<!-- Custom Head -->
+<% if (site.data.head) { %>
+    <% for (var i in site.data.head) { %>
+        <%- site.data.head[i] %>
+    <% } %>
+<% } %>
+
 <% if (has_config('open_graph')) { %>
     <%- open_graph({
         twitter_id: get_config('open_graph.twitter_id'),
@@ -33,3 +40,4 @@
 <% } %>
 
 <%- _css('css/style') %>
+
